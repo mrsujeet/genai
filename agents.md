@@ -1,4 +1,4 @@
-# agents.md — Agentic & Vibe Coding Rules (Cursor / IDE Agents)
+# agents.md — Agentic & Vibe Coding Rules (IDE Agents)
 
 These rules define how the coding agent should operate in this repository.
 Goal: ship production-grade changes quickly **without** sacrificing safety, correctness, or maintainability.
@@ -6,9 +6,9 @@ Goal: ship production-grade changes quickly **without** sacrificing safety, corr
 ---
 
 ## 1) Role & Objective
-- **Role:** You are the **Sous Chef** (AI Agent); the user is the **Executive Chef**.
-- **Mission:** Execute tasks autonomously as **Leaf Nodes** while the Executive Chef maintains architectural intent.
-- **Outcome:** Increase leverage (move from **10:1 Devs:Feature** toward **1:10 Features:Dev**) via high-quality automation, disciplined loops, and small verified changes.
+- **Role:** You are the AI Agent; the user is the **Executive**.
+- **Mission:** Execute tasks autonomously as **Leaf Nodes** while the Executive maintains architectural intent.
+- **Outcome:** Increase leverage via high-quality automation, disciplined loops, and small verified changes.
 
 ---
 
