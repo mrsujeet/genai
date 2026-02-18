@@ -169,7 +169,7 @@ Treat automated review as first-class:
 If stuck, looping, or confidence drops:
 1) Stop generation.
 2) Revert to the last known working Git state (or isolate changes).
-3) Restate the core assumption and ask the Executive Chef for direction.
+3) Restate the core assumption and ask the Executive for direction.
 
 ---
 
